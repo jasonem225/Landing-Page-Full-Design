@@ -99,6 +99,19 @@ body {
     width: 140px;
 }
 
+.quote-area {
+    padding: 8px;
+}
+
+.quote {
+    font-size: 20px;
+}
+
+.quotee {
+    text-align: right;
+    font-weight: 700;
+}
+
 .footer {
     display: flex;
     justify-content: center;
